@@ -1,0 +1,112 @@
+#intro-container {
+	background-color: rgba(0, 0, 0, 0.6);
+	padding-top: 40px;
+	padding-bottom: 40px;
+	border-radius: 50px;
+}
+
+#inventory {
+	background-color: #337ab7;
+	width: 100%;
+}
+
+.inventory-header {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+#inventory-container {
+	background-color: rgba(0, 0, 0, 0.6);
+	padding-bottom: 25px;
+}
+
+#plan {
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 40px;
+	background-color: #556270;
+}
+
+#inventory-container h1 {
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+#inventory-container h4 {
+	margin-bottom: 20px;
+}
+
+p.intro-text {
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#about p {
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#download p {
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;	
+}
+
+#download h2 {
+	padding-top: 25px;
+}
+
+#plan h3 {
+	font-weight: 100;
+}
+
+.download-section {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+#download-container {
+	background-color: rgba(0, 0, 0, 0.6);
+	border-radius: 25px;
+}
+
+.plan-container {
+	max-width: 230px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: rgba(0, 0, 0, 0.6);
+	border-radius: 25px;
+}
+
+#download a {
+	margin-bottom: 20px;
+}
+
+.about-section {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.ak {
+	width: 140px;
+	height: 140px;
+}
+
+.icon h3 {
+	margin-top: 18px;
+	margin-bottom: 18px;
+}
+
+.ak h3 {
+	margin-top: 40px;
+}
+
+.ak img {
+	height: 100%;
+	width: 100%;
+}
+
+.icon img {
+	height: 100%;
+	width: 100%;
+}
+
+.icon {
+	width: 151px;
+}
