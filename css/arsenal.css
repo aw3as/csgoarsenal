@@ -45,7 +45,7 @@ p.intro-text {
 }
 
 #download p {
-	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;	
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 #download h2 {
@@ -74,7 +74,7 @@ p.intro-text {
 	border-radius: 25px;
 }
 
-#download a {
+#download button {
 	margin-bottom: 20px;
 }
 
@@ -109,4 +109,22 @@ p.intro-text {
 
 .icon {
 	width: 151px;
+}
+
+.modal-content {
+	background-color: black;
+}
+
+.modal-body {
+	padding-bottom: 0px;
+}
+
+input {
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	text-align: center;
+}
+
+#cancel {
+	color: #DC4242;
+	border: 1px solid #DC4242;
 }

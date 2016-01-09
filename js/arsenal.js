@@ -20,6 +20,16 @@ $(document).ready(function() {
 		$(this).find('.over').removeClass('hidden');
 	});
 
-	
-
+	$('#save').click(function() {
+		$.ajax('http://app.csgoarsenal.com/save', {
+			method: 'POST',
+			data: {
+				email: $('input').val()
+			},
+			complete: function() {
+				$('#email').text('Thanks!');
+				$('.modal').modal('hide');
+			}
+		});
+	});
 });
