@@ -128,3 +128,9 @@ input {
 	color: #DC4242;
 	border: 1px solid #DC4242;
 }
+
+#cancel:hover,
+#cancel:focus {
+	color: #000;
+	background-color: #DC4242;
+}
