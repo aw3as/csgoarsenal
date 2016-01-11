@@ -134,3 +134,7 @@ input {
 	color: #000;
 	background-color: #DC4242;
 }
+
+.modal-footer h3,h4 {
+	text-align: center;
+}

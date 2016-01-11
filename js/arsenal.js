@@ -27,8 +27,8 @@ $(document).ready(function() {
 				email: $('input').val()
 			},
 			complete: function() {
-				$('#email').text('Thanks!');
-				$('.modal').modal('hide');
+				$('#save').text('Thanks!');
+				// $('.modal').modal('hide');
 			}
 		});
 	});
